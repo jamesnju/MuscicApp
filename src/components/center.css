@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+}
+.name{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    list-style: none;
+
+}
+.nav-lik{
+    
+    cursor: pointer;
+    margin-right: 3rem;
+
+}

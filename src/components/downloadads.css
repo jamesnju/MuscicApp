@@ -1,0 +1,11 @@
+.download-images{
+    display: flex;
+}
+.storeapp{
+    border: 2px sold #232A4E;
+    border-radius: 13px;
+    height: 3rem;
+    width: 10rem;
+    display: flex;
+    margin-right: 4rem;
+}

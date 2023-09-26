@@ -1,0 +1,73 @@
+.musicplayer{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    border: 2 solid black;
+    background-color: rgb(8, 8, 37);
+    width: 90%;
+    height: 40%;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+.upperpart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profile{
+    display: flex;
+}
+.proimg{
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+.musicname{
+    color: blueviolet;
+    font-size: medium;
+    font-weight: 600;
+}
+.artistname{
+    color: gray;
+    font-weight: 700;
+}
+.info{
+    display: flex;
+    margin-left: 4px;
+    margin-top: 10px;
+    
+}
+.dots{
+    display: flex;
+    padding-left: 95%;
+    height: 1rem;
+    margin-top: -30px;
+}
+.lowerpart{
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+    align-items: center;
+    flex: 2;
+    
+}
+.truckimg{
+    display: flex;
+    width: 70%;
+    padding: 20px;
+}
+.controls{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.pauseButton{
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: -2px;
+    cursor: pointer;
+}

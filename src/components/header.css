@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 2.4rem;
+    color: aliceblue;
+    font-size: 25px;
+}
+.logo{
+    width: 42px;
+    height: 42px;
+}
+.buttons{
+    display: flex;
+  
+}
+.btn{
+    border: 2px solid navy;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: gold;
+}
+.btn:active{
+    background-color: red;
+}

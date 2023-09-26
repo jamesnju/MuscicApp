@@ -1,0 +1,33 @@
+.features{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    margin: 0rem;
+}
+.icon{
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 10px;   
+
+}
+
+.iconimg{
+    width: 3rem;
+}
+.title{
+    margin-top: 5px;
+}
+.desc{
+    margin-top: 4rem;
+    color: brown;
+}
+.learnmore{
+    color: gold;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 3rem;
+}

@@ -1,0 +1,34 @@
+.download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10rem;
+    background-color: rgb(16, 16, 56);
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+    position: relative;
+    padding-top: 18px;
+    margin-top: 1rem;
+    justify-content: start;
+    text-align: center;
+    height: 50rem;
+
+}
+.downicon{
+    width: 10rem;
+}
+.headline{
+    margin-top: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 3rem;
+
+}
+.description{
+    font-size: 2rem;
+    color: gray;
+    text-align: center;
+    margin-top: 1rem;
+    
+}
