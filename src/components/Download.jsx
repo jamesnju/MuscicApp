@@ -18,7 +18,7 @@ const Download = () => {
       </span>
     </div>
     {/* dowload ads */}
-    <div className="mt-14">
+    <div className="comp">
       <DownLoadAds/>
     </div>
   </div>

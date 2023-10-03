@@ -25,9 +25,6 @@ function Hero() {
             <img src={require("../img/p 2.png")} alt="" className='img3'/>
             <img src={require("../img/p 3.png")} alt="" className='img4'/>
             <img src={require("../img/p 4.png")} alt="" className='img5'/>
-
-
-
         </div>
     </div>
   )
