@@ -3,6 +3,7 @@ import './footer.css';
 import CenterMenu from './CenterMenu';
 import { Facebook, LinkedIn, Twitter, YouTube } from '@mui/icons-material';
 const Footer = () => {
+   
   return (
     <div className=" footer">
       <CenterMenu />
